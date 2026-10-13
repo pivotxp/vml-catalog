@@ -1,0 +1,9 @@
+{
+  "inputHash": "cce38ed982a1",
+  "builtAt": "2026-10-13T17:35:28.113Z",
+  "slug": "vml",
+  "warnings": [
+    "Neutral brand colour: dark-ground accent falls back to near-white. Provide a secondary colour for a tinted accent.",
+    "Display font \"Archivo Black\" could not be self-hosted; falling back to the Google Fonts link."
+  ]
+}
